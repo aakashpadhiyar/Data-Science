@@ -1,6 +1,4 @@
-# Data Science
-# PYTHON
-# py 
+
 # Jupyter notebook
 # Anaconda3 (😍)
 
@@ -131,3 +129,8 @@ PyQt is a Python binding toolkit for cross-platform GUI. It is implemented as a 
 OpenCV is designed for driving growth of the real-time computing application development. It was created by Intel. This open-source platform is licensed under BSD and free to use for anyone. It includes 2D and 3D feature toolkits, object identification algorithms, mobile robotics, face recognition, gesture recognition, motion tracking, segmentation, SFM, AR, boosting, gradient boosting trees, Naive Bayes classifier and many other useful packages.
 
 Even if OpenCV is written in the C++, it provides bindings in Python, Java, and Octave. This application is supported on Windows, Linux, iOS, FreeBSD.
+
+
+# Data Science
+# PYTHON
+# py 
