@@ -1,6 +1,6 @@
 # PYTHON-3
 # Jupyter notebook
-# Anaconda3 (😍)
+# Anaconda3 
 
 # Data science
     Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems
