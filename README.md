@@ -1,7 +1,3 @@
-# PYTHON-3
-# Jupyter notebook
-# Anaconda3 
-
 # Data science
     Data science is an interdisciplinary field that uses scientific methods, processes, algorithms and systems
     to extract knowledge and insights from data in various forms, both structured and unstructured, similar
@@ -131,6 +127,4 @@ OpenCV is designed for driving growth of the real-time computing application dev
 Even if OpenCV is written in the C++, it provides bindings in Python, Java, and Octave. This application is supported on Windows, Linux, iOS, FreeBSD.
 
 
-# Data Science
-# PYTHON
-# py 
+
