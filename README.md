@@ -3,6 +3,15 @@
     to extract knowledge and insights from data in various forms, both structured and unstructured, similar
     to data mining.
 
+About Me : https://about.me/aakashpadhiyar
+
+Youtube Channel: https://www.youtube.com/channel/UCtuoofxzdxsmtRtEy27710g
+
+Freelance : https://www.fiverr.com/kanopython
+
+Facebook : https://www.facebook.com/pythonkano/
+
+LinkedIn : https://www.linkedin.com/in/aakashpadhiyar/
 
 
 # 1. NumPy
